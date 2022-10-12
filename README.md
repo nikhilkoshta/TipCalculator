@@ -1,4 +1,7 @@
-# Tip-Calculator- This App is made with Jetpack Compose which calculates Tip based on the cost of service.
+# Tip-Calculator-
+
+About-
+This App is made with Jetpack Compose which calculates Tip based on the cost of service.
 
 Instructions-
 1. Always work with a new branch other than master branch.

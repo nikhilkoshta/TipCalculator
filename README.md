@@ -1,4 +1,5 @@
-# Tip-Calculator
+# Tip-Calculator  <img src="Images/Kotlin_Icon.png" width="25">
+<img src="Images/jc_logo.png" width="90">
 
 # About-
 Tip Calculator is made with Jetpack Compose which calculates Tip based on the cost of service.

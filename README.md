@@ -1,4 +1,4 @@
-# Tip-Calculator-
+# Tip-Calculator
 
 About-
 This App is made with Jetpack Compose which calculates Tip based on the cost of service.
